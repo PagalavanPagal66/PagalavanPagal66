@@ -27,5 +27,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pagalavanpagal66&show_icons=true&locale=en&layout=compact" alt="pagalavanpagal66" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pagalavanpagal66&show_icons=true&locale=en" alt="pagalavanpagal66" /></p>
-
+<div align="center">
+<a href="https://github.com/spravinkumar9952">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=spravinkumar9952&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spravinkumar9952&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spravinkumar9952&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spravinkumar9952&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spravinkumar9952&theme=github_dark" height="180em" />
+</div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pagalavanpagal66&" alt="pagalavanpagal66" /></p>
