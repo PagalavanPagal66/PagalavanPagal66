@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **c++ , Python & JavaScript**
 
-- 💬 Ask me about **DSA , CP , AI & ML , Python Backend**
+- 💬 Ask me about **DSA , CP , C++ , AI & ML , Python Backend**
 
 - 📫 How to reach me **pagalavanpagal017@gmail.com**
 
